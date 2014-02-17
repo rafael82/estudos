@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clientes>
+    <cliente id="1">
+        <nome>Rafael</nome>
+        <dataNascimento>1982-09-01</dataNascimento>
+    </cliente>
+    <cliente id="2">
+        <nome>Fernando</nome>
+        <dataNascimento>1981-10-27</dataNascimento>
+    </cliente>
+    <cliente id="3">
+        <nome>Lilian</nome>
+        <dataNascimento>1985-06-15</dataNascimento>
+    </cliente>
+</clientes>
